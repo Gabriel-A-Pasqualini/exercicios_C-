@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\obj\Debug\TrabalhoNove.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\obj\Debug\TrabalhoNove.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\obj\Debug\TrabalhoNove.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\bin\Debug\TrabalhoNove.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\bin\Debug\TrabalhoNove.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\bin\Debug\TrabalhoNove.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\obj\Debug\TrabalhoNove.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoNove\TrabalhoNove\obj\Debug\TrabalhoNove.pdb

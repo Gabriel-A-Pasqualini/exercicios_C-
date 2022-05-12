@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\bin\Debug\TrabalhoDez.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\bin\Debug\TrabalhoDez.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\bin\Debug\TrabalhoDez.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\obj\Debug\TrabalhoDez.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\obj\Debug\TrabalhoDez.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\obj\Debug\TrabalhoDez.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\obj\Debug\TrabalhoDez.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoDez\TrabalhoDez\obj\Debug\TrabalhoDez.pdb

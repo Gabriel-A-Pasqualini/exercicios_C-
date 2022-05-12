@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\bin\Debug\TrabalhoOnze.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\bin\Debug\TrabalhoOnze.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\bin\Debug\TrabalhoOnze.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\obj\Debug\TrabalhoOnze.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\obj\Debug\TrabalhoOnze.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\obj\Debug\TrabalhoOnze.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\obj\Debug\TrabalhoOnze.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOnze\TrabalhoOnze\obj\Debug\TrabalhoOnze.pdb

@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\bin\Debug\TrabalhoOito.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\bin\Debug\TrabalhoOito.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\bin\Debug\TrabalhoOito.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\obj\Debug\TrabalhoOito.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\obj\Debug\TrabalhoOito.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\obj\Debug\TrabalhoOito.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\obj\Debug\TrabalhoOito.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoOito\TrabalhoOito\obj\Debug\TrabalhoOito.pdb

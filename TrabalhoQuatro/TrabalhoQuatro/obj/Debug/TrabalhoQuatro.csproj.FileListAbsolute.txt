@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\bin\Debug\TrabalhoQuatro.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\bin\Debug\TrabalhoQuatro.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\bin\Debug\TrabalhoQuatro.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\obj\Debug\TrabalhoQuatro.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\obj\Debug\TrabalhoQuatro.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\obj\Debug\TrabalhoQuatro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\obj\Debug\TrabalhoQuatro.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoQuatro\TrabalhoQuatro\obj\Debug\TrabalhoQuatro.pdb

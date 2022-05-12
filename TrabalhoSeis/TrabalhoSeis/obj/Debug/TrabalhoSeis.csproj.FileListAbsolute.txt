@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\bin\Debug\TrabalhoSeis.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\bin\Debug\TrabalhoSeis.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\bin\Debug\TrabalhoSeis.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\obj\Debug\TrabalhoSeis.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\obj\Debug\TrabalhoSeis.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\obj\Debug\TrabalhoSeis.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\obj\Debug\TrabalhoSeis.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoSeis\TrabalhoSeis\obj\Debug\TrabalhoSeis.pdb

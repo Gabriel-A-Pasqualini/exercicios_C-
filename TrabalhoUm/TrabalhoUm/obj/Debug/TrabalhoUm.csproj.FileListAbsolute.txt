@@ -1,0 +1,11 @@
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.Form1.resources
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.Properties.Resources.resources
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\bin\Debug\TrabalhoUm.exe.config
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\bin\Debug\TrabalhoUm.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\bin\Debug\TrabalhoUm.pdb
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.exe
+C:\Users\gabri\Documents\dev\c#\newc#\firstcode\newfirstcode\TrabalhoUm\TrabalhoUm\obj\Debug\TrabalhoUm.pdb
